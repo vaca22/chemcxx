@@ -1,0 +1,4 @@
+G:\CLion_2021.1.2_Protable\bin\ProtableData\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/e/code/java/chemcxx
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/e/code/java/chemcxx/cmake-build-debug

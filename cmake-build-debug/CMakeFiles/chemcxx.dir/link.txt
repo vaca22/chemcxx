@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -shared -Wl,--enable-auto-import -o cygchemcxx.dll -Wl,--out-implib,libchemcxx.dll.a -Wl,--major-image-version,0,--minor-image-version,0 CMakeFiles/chemcxx.dir/chemMain.cpp.o CMakeFiles/chemcxx.dir/chem.cpp.o CMakeFiles/chemcxx.dir/rationalMatrix.cpp.o CMakeFiles/chemcxx.dir/rationalNumber.cpp.o 

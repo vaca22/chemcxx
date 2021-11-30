@@ -1,0 +1,3 @@
+/cygdrive/e/code/java/chemcxx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/code/java/chemcxx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/code/java/chemcxx/cmake-build-debug/CMakeFiles/chemcxx.dir
